@@ -17,10 +17,10 @@ from tweepy import Stream
 #from tweepy.streaming import StreamListener
 
 
-consumer_key = 'wYFXVrYurmrSTKVx8P7bT6DXc'
-consumer_secret = 'uXe6kePUCgmbdO1pBf99m5rzxbdeFB3R5T5HRPwGf7JfE1pDB3'
-access_token = '1486742876969132037-4aZE4as5USMdCjXBG1VFZ28jcSvRmH'
-access_secret = 'lnvorOmrnzCEslAOexwXMWnKKKeMMxSRr8wAgrvXHyAmT'
+consumer_key = '123'
+consumer_secret = '123'
+access_token = '123'
+access_secret = ''123'
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
